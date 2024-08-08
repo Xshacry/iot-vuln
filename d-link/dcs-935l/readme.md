@@ -71,3 +71,5 @@ SOAPAction: http://192.168.0.1/HNAP1/Login
   </soap:Body>
 </soap:Envelope>
 ```
+
+Finally, you can write exp to achieve the effect of stable access to the root shell
