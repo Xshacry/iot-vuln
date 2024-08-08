@@ -1,4 +1,4 @@
-# DCS-960L_A1_FW_1.13.01_r4589  Stack overflow vulnerability
+# DCS-960L 1.09  Stack overflow vulnerability
 
 ## INFO
 Manufacturer's address：https://www.dlink.com/
